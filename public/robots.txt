@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rtlab.xyz//sitemap.xml

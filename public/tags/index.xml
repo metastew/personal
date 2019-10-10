@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Craig Cannon</title>
+    <link>https://rtlab.xyz/tags/</link>
+    <description>Recent content in Tags on Craig Cannon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/metastew&#34;&gt;Craig Cannon&lt;/a&gt; 2019</copyright>
+    
+	<atom:link href="https://rtlab.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+baseURL = "https://rtlab.xyz/"
+languageCode = "en-us"
+title = "Craig Cannon"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/metastew\">Craig Cannon</a> 2019"
+Paginate = 5
+enableRobotsTXT = true
+
+[params.rss]
+includeContent = true
+authorName = "Craig Cannon"
+authorEmail = "cannonstar@gmail.com"
+
+[params.social]
+twitter = "metastew"
+github = "metastew"
+email = "cannonstar@gmail.com"
+rss = "index.xml"
+
+[params.social.config]
+platforms = ["github", "twitter", "email"]
+
+[taxonomies]
+tag = "tags"
