@@ -5,6 +5,7 @@ theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/metastew\">Craig Cannon</a> 2019"
 Paginate = 5
 enableRobotsTXT = true
+summaryLength = 30
 
 [params.rss]
 includeContent = true
@@ -21,4 +22,5 @@ rss = "index.xml"
 platforms = ["github", "twitter", "email"]
 
 [taxonomies]
+category = "categories"
 tag = "tags"

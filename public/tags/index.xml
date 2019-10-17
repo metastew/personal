@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/metastew&#34;&gt;Craig Cannon&lt;/a&gt; 2019</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 12:13:38 -0300</lastBuildDate>
     
 	<atom:link href="https://rtlab.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arch Linux</title>
+      <link>https://rtlab.xyz/tags/arch-linux/</link>
+      <pubDate>Thu, 17 Oct 2019 12:13:38 -0300</pubDate>
+      
+      <guid>https://rtlab.xyz/tags/arch-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://rtlab.xyz/tags/database/</link>
+      <pubDate>Thu, 17 Oct 2019 12:13:38 -0300</pubDate>
+      
+      <guid>https://rtlab.xyz/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>https://rtlab.xyz/tags/guide/</link>
+      <pubDate>Thu, 17 Oct 2019 12:13:38 -0300</pubDate>
+      
+      <guid>https://rtlab.xyz/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference</title>
+      <link>https://rtlab.xyz/tags/reference/</link>
+      <pubDate>Thu, 17 Oct 2019 12:13:38 -0300</pubDate>
+      
+      <guid>https://rtlab.xyz/tags/reference/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

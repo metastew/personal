@@ -3,11 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rtlab.xyz/tags/arch-linux/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/posts/basic-postgresql-archlinux/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rtlab.xyz/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/tags/database/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/tags/guide/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/posts/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/tags/reference/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://rtlab.xyz/tags/</loc>
+    <lastmod>2019-10-17T12:13:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/posts/my-first-post/</loc>
+    <lastmod>2019-10-10T12:09:36-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtlab.xyz/categories/</loc>
   </url>
   
 </urlset>
